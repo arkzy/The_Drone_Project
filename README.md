@@ -10,7 +10,7 @@ Phase 1 : Building a drone with parts to determine and understand which systems 
 stimuluous speeds assessing situations and listing the pheripherals needed for it. Also determines balance and actions based details in a regular remotely 
 operated manner.
 
-# Drone can carry an input-output comm
+> Drone can carry an input-output comm
 
 Phase 2 : Controlling Interface
 
